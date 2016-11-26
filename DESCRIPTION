@@ -1,0 +1,16 @@
+Package: skosmos
+Title: Wrapper for the skosmos REST api
+Version: 0.0.0.9000
+Authors@R: person("Cartsen", "Behring", email = "carsten.behring@gmail.com", role = c("aut", "cre"))
+Description: R wrapper arround the skosmos REST API https://github.com/NatLibFi/
+    Skosmos/wiki/REST-API, as used for example by the GACS vocabulary.
+Depends:
+    R (>= 3.2.2)
+License: GPL3
+Encoding: UTF-8
+LazyData: true
+Suggests:
+    testthat
+Imports:
+    httr
+RoxygenNote: 5.0.1
