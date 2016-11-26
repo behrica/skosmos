@@ -1,5 +1,5 @@
 Package: skosmos
-Title: Wrapper for the skosmos REST api
+Title: Wrapper for the Skosmos REST api
 Version: 0.0.0.9000
 Authors@R: person("Cartsen", "Behring", email = "carsten.behring@gmail.com", role = c("aut", "cre"))
 Description: R wrapper arround the skosmos REST API https://github.com/NatLibFi/
