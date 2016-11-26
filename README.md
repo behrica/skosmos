@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/behrica/skosmos.svg?branch=master)](https://travis-ci.org/behrica/skosmos)
+
+
 # skosmos
 
 The goal of skosmos is to ease the use of the skosmos REST API.
