@@ -6,7 +6,7 @@ Description: R wrapper arround the skosmos REST API https://github.com/NatLibFi/
     Skosmos/wiki/REST-API, as used for example by the GACS vocabulary.
 Depends:
     R (>= 3.2.2)
-License: GPL3
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Suggests:

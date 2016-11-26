@@ -9,7 +9,7 @@ label(base, uri)
 \arguments{
 \item{base}{The base url of the rst endpoint}
 
-\item{The}{uri of a term}
+\item{uri}{The uri of a term}
 }
 \value{
 json representation as list of the information

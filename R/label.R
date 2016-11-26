@@ -1,7 +1,7 @@
 ##' Returns information of a uri
 ##'
 ##' @param base The base url of the rst endpoint 
-##' @param The uri of a term
+##' @param uri The uri of a term
 ##' @return json representation as list of the information
 label <- function(base,uri) {
 
